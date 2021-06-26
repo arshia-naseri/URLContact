@@ -14,7 +14,7 @@ function App() {
 
   return (
     <>
-    <a id={'btnDownload'} href={contact} download>This is the page</a>
+    <a id={'btnDownload'} href={contact} download></a>
     </>
   )
 }
