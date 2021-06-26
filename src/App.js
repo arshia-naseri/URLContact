@@ -9,7 +9,7 @@ function App() {
 
   function autoClick(){
     const btnDownload = document.getElementById('btnDownload')
-    // btnDownload.click()
+    btnDownload.click()
   }
 
   return (
